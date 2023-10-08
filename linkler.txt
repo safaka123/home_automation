@@ -1,0 +1,5 @@
+https://community.openai.com/t/chatiot-the-future-of-home-automation/209804
+
+https://www.home-assistant.io/integrations/openai_conversation/
+
+https://www.hackster.io/AlexWulff/the-meanest-home-automation-ai-with-gpt-3-859116
