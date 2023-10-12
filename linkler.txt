@@ -21,6 +21,24 @@ https://www.hackster.io/AlexWulff/the-meanest-home-automation-ai-with-gpt-3-8591
 
 TANALPTEN GELENLER
 
+Veri seti 
+
+Makale: 
+https://www.mdpi.com/2571-6255/5/1/11#B15-fire-05-00011
+
+İçerik:
+https://www.kaggle.com/code/kerneler/starter-indoor-laboratory-fire-dataset-7adf2adf-5
+
+İndir:
+https://data.mendeley.com/datasets/f3mjnbm9b3/1
+
+
+FireNET veri seti:
+
+https://github.com/OlafenwaMoses/FireNET
+
+Kullanılan sensör: MQ139 (MQ135 de benzer bir işlevi üstlenebilir.)
+
 
 
 
