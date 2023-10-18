@@ -42,4 +42,29 @@ Kullanılan sensör: MQ139 (MQ135 de benzer bir işlevi üstlenebilir.)
 
 
 
+LLMs:
+
+https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+
+
+Gradio:
+
+https://www.linkedin.com/pulse/deploying-machine-learning-model-web-app-using-gradio-uwayo-valentin
+
+
+Mikrobotik arşivi için:
+
+https://twitter.com/mayowaoshin/status/1640385062708424708
+
+Langchain
+
+GPT, Llama etc.
+
+Hugging Face spaces
+
+
+
+https://www.kdnuggets.com/2023/05/huggingchat-python-api-alternative.html
+
+
 
