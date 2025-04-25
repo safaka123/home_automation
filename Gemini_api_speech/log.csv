@@ -1,0 +1,4 @@
+Sensor;Min;Max;Value;Status
+Temp1;10;30;20;Kitchen
+Temp2;10;30;25;Bath
+Ambient;10;40;20;Ambient Temperature
